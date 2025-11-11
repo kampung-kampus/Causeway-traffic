@@ -1,1 +1,45 @@
+Features
+- 🗺️ Interactive map centered on Woodlands Checkpoint
+- 🔥 Heatmap and polyline overlays for traffic visualization
+- 🕒 Timestamp and legend controls
+- ⚠️ Error handling and loading indicators
+- 📱 Responsive layout using 100vh map container
+
+🛠️ Technologies Used
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+
+
+
+📦 Project Structure
+/your-repo
+├── index.html       # Main HTML file
+├── style.css        # Optional external styles
+├── script.js        # Map logic and API integration
+
+
+
+🔐 API Key Usage
+This project uses the LTA Datamall API directly in the browser. For testing or public display:
+- Replace YOUR_LTA_API_KEY in script.js with your actual key.
+- Be aware that exposing keys publicly may violate LTA’s terms.
+- For production, consider routing through a secure proxy.
+
+🧭 Deployment Instructions (GitHub Pages)
+- Push your files to a GitHub repository.
+- Go to Settings → Pages.
+- Set source to main branch and /root folder.
+- Access your site at https://your-username.github.io/your-repo-name/.
+
+ 
+
+📄 License
+This project is open-source under the MIT License.
+Attribution required for LTA Datamall and OpenStreetMap data.
+
+Would you like me to help generate a favicon, add a modular legend, or scaffold a docs/ folder for GitHub Pages compatibility?
 
