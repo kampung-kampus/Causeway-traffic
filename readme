@@ -13,17 +13,11 @@ OpenStreetMap - Base map tiles
 LTA Datamall API - Real-time traffic data
 GitHub Pages - Static site hosting
 
-
-
-
-
 📦 Project Structure
 /your-repo
 ├── index.html       # Main HTML file
 ├── style.css        # Optional external styles
 ├── script.js        # Map logic and API integration
-
-
 
 🔐 API Key Usage
 This project uses the LTA Datamall API directly in the browser. For testing or public display:
@@ -35,9 +29,7 @@ This project uses the LTA Datamall API directly in the browser. For testing or p
 - Push your files to a GitHub repository.
 - Go to Settings → Pages.
 - Set source to main branch and /root folder.
-- Access your site at https://your-username.github.io/your-repo-name/.
-
- 
+- Access your site at https://your-username.github.io/your-repo-name/. 
 
 📄 License
 This project is open-source under the MIT License.
